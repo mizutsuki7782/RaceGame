@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Count&#10;" name="CountdownLabel" style="-unity-text-align: upper-center; font-size: 80px; -unity-font-style: italic; top: 15%;"/>
+    <ui:Label text="00:00.00&#10;" name="TimerLabel" style="font-size: 45px; align-items: center; align-self: flex-start; top: -100px; left: 10px; padding-left: 2px; margin-left: 4px; margin-bottom: 4px; width: 199px;"/>
+</ui:UXML>

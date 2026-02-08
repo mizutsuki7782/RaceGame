@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Clear!" name="Clear" style="font-size: 100px; -unity-font-style: bold; -unity-text-align: upper-center; position: relative; padding-left: 4px; padding-right: 4px; margin-left: 4px; margin-bottom: 4px; justify-content: flex-start; align-self: center; top: 10%;"/>
+    <ui:Label text="Time 0:00.00" name="Result" style="align-items: stretch; align-self: center; font-size: 50px; top: 30%; position: absolute;"/>
+    <ui:Button text="Retry&#10;&#10;" name="RetryButton" style="align-self: center; top: 50%; font-size: 50px; align-content: flex-start; justify-content: flex-start; align-items: stretch; -unity-font-style: normal; -unity-text-align: upper-center; white-space: nowrap; background-size: 100% 100%; position: absolute; width: 200px;"/>
+    <ui:Button text="Title" name="TitleButton" style="align-items: stretch; align-self: center; font-size: 50px; position: absolute; top: 70%; width: 200px;"/>
+</ui:UXML>
